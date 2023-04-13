@@ -23,7 +23,7 @@
 
 <!-- - 📫 How to reach me **tanishqlearn@gmail.com** -->
 
-- 📄 Know about my experiences [Download CV]()
+- 📄 Know about my experiences [Download CV](https://github.com/tanishq-rocks/tanishq-rocks/blob/main/Tanishq_Patni_Resume.pdf)
 
 - ⚡ Fun fact **I like to play Chess**
 
