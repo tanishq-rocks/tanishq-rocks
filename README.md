@@ -1,4 +1,4 @@
-![logo](https://tanishq-rocks.github.io/tanishq-rocks/assets/images/background.png)
+![logo](https://tanishq-rocks.github.io/tanishq-rocks/assets/images/background.jpg)
 
 <h1 align="center">Hi 👋, I'm Tanishq Patni</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
