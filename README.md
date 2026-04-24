@@ -78,7 +78,7 @@
 ## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishq-rocks&show_icons=true&locale=en" alt="tanishq-rocks" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-rocks&" alt="tanishq-rocks" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishq-rocks" alt="tanishq-rocks" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishq-rocks&theme=solarized" alt="tanishq-rocks" /></p>
 
 
 ---
